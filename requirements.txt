@@ -1,0 +1,2 @@
+# 运行环境（技术栈锁定为 Pygame CE）
+pygame-ce>=2.1.3

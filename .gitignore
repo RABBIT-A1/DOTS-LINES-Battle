@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 构建与打包
+build/
+dist/
+release/
+*.spec
+
+# 本地日志与调试产物
+*.log
+logs/
+tempCodeRunnerFile.python
+
+# 本地预览、报告与缓存输出
+artifacts/
+reports/
+.cache/
+
+# 环境变量与凭据
+.env
+.env.*
+!.env.example
+.secrets/
+credentials.json
+credentials.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
